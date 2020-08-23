@@ -5,6 +5,9 @@ To manage comments on various Dev Mastery properties.
 
 > In this video we talk about Bob Martin's Clean Architecture model and I will show you how we can apply it to a Microservice built in node.js with MongoDB and Express JS - @arcdev1
 
+## This project is a fork of this (repository)[https://github.com/dev-mastery/comments-api]. Check the video above for details.
+
+
 ## Features
 * XSS Protection (via [sanitize-html](https://www.npmjs.com/package/sanitize-html))
 * Flags Spam (via [Akismet](https://akismet.com/))
